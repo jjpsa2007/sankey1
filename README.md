@@ -19,3 +19,6 @@ bashcat main.js | openssl dgst -sha256 -binary | openssl base64 -A
   "integrity": "sha256-AR0uDO+9h8nu9EyJotSinZ2APDWD5Ja2JmdFcZCH1Xo=",
   "ignoreIntegrity": false
 }
+---------------------------------------------------------------------------
+app.chunk.1545.011fa…6b486c0f5af3d.js:21 
+ Something went wrong when parsing the selections. We cannot fined the member of 530210.
